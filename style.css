@@ -126,9 +126,6 @@ body{
 }
 .g{
     border:3px solid red;
-    border-left: 50%;
-    border-right: 50%;
-    border-radius: 30px;
     margin-left:25px;
     padding-right: 17px;
 }
