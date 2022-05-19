@@ -98,3 +98,50 @@ body{
 .close-icon:hover{
   background: #efefef;
 }
+.a{
+    display:flex;
+    flex-direction: row;
+    justify-content:flex-end ;
+    justify-content: space-between;
+    
+}
+.b{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: red underline;
+    
+
+}
+.c{
+    color:red;
+    margin-left:25px;
+}
+.d{
+    margin-left:25px; 
+}
+.e{
+    margin-left:25px;
+}
+.f{
+    margin-left:25px;
+}
+.g{
+    border:3px solid red;
+    border-left: 50%;
+    border-right: 50%;
+    border-radius: 30px;
+    margin-left:25px;
+    padding-right: 17px;
+}
+.h{
+    display:flex;
+    flex-direction: row;
+}
+.j{
+    font-size:30px;
+}
+.rao{
+    display: flex;
+    flex-direction: row;
+    justify-items: space between;
+}
+
